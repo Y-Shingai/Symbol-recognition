@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\新階幸也\workspace\Symbol recognition\src\symbolrecognitionComp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\新階幸也\workspace\Symbol recognition\src\symbolrecognition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\新階幸也\workspace\Symbol recognition\include\symbolrecognition\symbolrecognition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\新階幸也\workspace\Symbol recognition\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{16E25104-8396-39C7-8CF8-AE6B1A4B8A1E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7E43BD54-408A-3924-9943-6E8184B273B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
